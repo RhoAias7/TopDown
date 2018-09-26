@@ -1,31 +1,30 @@
 Initialize engine version: 2017.1.0b9 (a1e6a9071015)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: AMD FirePro V4900 (FireGL V) Graphics Adapter (ID=0x6749)
-    Vendor:   ATI
-    VRAM:     1008 MB
-    Driver:   15.201.2401.0
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Microsoft Basic Render Driver (ID=0x8c)
+    Vendor:   Microsoft
+    VRAM:     2559 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: H:\Top Down Game\TopDown_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading H:\Top Down Game\TopDown_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: H:\Top Down Game\TopDown_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading H:\Top Down Game\TopDown_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: H:\Top Down Game\TopDown_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading H:\Top Down Game\TopDown_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: H:\Top Down Game\TopDown_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading H:\Top Down Game\TopDown_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: H:\Top Down Game\TopDown_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading H:\Top Down Game\TopDown_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: H:\Top Down Game\TopDown_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading H:\Top Down Game\TopDown_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-Platform assembly: H:\Top Down Game\TopDown_Data\Managed\System.dll (this message is harmless)
-Platform assembly: H:\Top Down Game\TopDown_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.297 seconds
+Platform assembly: C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\x16300351\Documents\GitHub\TopDown\TopDown_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.072 seconds
 <RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 5.554513 ms
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 102c -> priority: 1 
-  Thread -> id: 1c9c -> priority: 1 
+UnloadTime: 1.468100 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2cd4 -> priority: 1 
