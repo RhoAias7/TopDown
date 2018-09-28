@@ -1,5 +1,4 @@
 # TopDown
 
-      ![](https://raw.githubusercontent.com/RhoAias7/TopDown/Screenshots/screenshot1.gif)
-
+<img src="https://github.com/RhoAias7/TopDown/blob/master/Screenshots/screenshot1.gif?raw=true"></img>
     
